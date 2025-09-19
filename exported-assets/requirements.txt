@@ -1,0 +1,18 @@
+# Cluely Clone Requirements
+PyQt5==5.15.9
+keyboard==0.13.5
+asyncio
+threading
+logging
+json
+time
+random
+typing
+platform
+
+# Opcional para servicios reales (descomentar cuando necesites)
+# openai-whisper  # Para ASR real
+# pytesseract     # Para OCR real  
+# anthropic       # Para Claude API real
+# Pillow          # Para manejo de imágenes
+# pyautogui       # Para captura de pantalla avanzada
